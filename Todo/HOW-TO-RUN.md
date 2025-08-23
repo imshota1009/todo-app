@@ -1,27 +1,28 @@
-ƒvƒƒWƒFƒNƒg‚Ì‹N“®Žè‡
-‚·‚×‚Ä‚ÌƒR[ƒh‚Æƒtƒ@ƒCƒ‹‚ª³‚µ‚­”z’u‚³‚êA“®ìŠÂ‹«‚ª®‚Á‚½ŒãAˆÈ‰º‚ÌŽè‡‚ÅƒAƒvƒŠ‚ð‹N“®‚µAŽg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®èµ·å‹•æ‰‹é †
+ã™ã¹ã¦ã®ã‚³ãƒ¼ãƒ‰ã¨ãƒ•ã‚¡ã‚¤ãƒ«ãŒæ­£ã—ãé…ç½®ã•ã‚Œã€å‹•ä½œç’°å¢ƒãŒæ•´ã£ãŸå¾Œã€ä»¥ä¸‹ã®æ‰‹é †ã§ã‚¢ãƒ—ãƒªã‚’èµ·å‹•ã—ã€ä½¿ç”¨ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
 Python
-1. ƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚ðŠJ‚­ Windows‚ÌƒXƒ^[ƒgƒƒjƒ…[‚©‚çucmdv‚Ü‚½‚ÍuPowerShellv‚ðŒŸõ‚µ‚ÄŠJ‚«‚Ü‚·B
-2. ƒfƒBƒŒƒNƒgƒŠ‚ÌˆÚ“® cdƒRƒ}ƒ“ƒh‚ðŽg‚Á‚ÄAtodo.pyƒtƒ@ƒCƒ‹‚ª‚ ‚éTodoƒfƒBƒŒƒNƒgƒŠ‚ÉˆÚ“®‚µ‚Ü‚·B
+1. ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã‚’é–‹ã Windowsã®ã‚¹ã‚¿ãƒ¼ãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‹ã‚‰ã€Œcmdã€ã¾ãŸã¯ã€ŒPowerShellã€ã‚’æ¤œç´¢ã—ã¦é–‹ãã¾ã™ã€‚
+2. ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã®ç§»å‹• cdã‚³ãƒžãƒ³ãƒ‰ã‚’ä½¿ã£ã¦ã€todo.pyãƒ•ã‚¡ã‚¤ãƒ«ãŒã‚ã‚‹Todoãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ç§»å‹•ã—ã¾ã™ã€‚
 Bash
-cd C:\Users\shota\Todo
-3. ƒAƒvƒŠ‚Ì‹N“® ˆÈ‰º‚ÌƒRƒ}ƒ“ƒh‚ð“ü—Í‚µAEnterƒL[‚ð‰Ÿ‚µ‚Ü‚·B
+cd C:\Users\myname\Todo
+3. ã‚¢ãƒ—ãƒªã®èµ·å‹• ä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å…¥åŠ›ã—ã€Enterã‚­ãƒ¼ã‚’æŠ¼ã—ã¾ã™ã€‚
 Bash
 python todo.py
 JavaScript (Node.js)
-1. ƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚ðŠJ‚­ Windows‚ÌƒXƒ^[ƒgƒƒjƒ…[‚©‚çucmdv‚Ü‚½‚ÍuPowerShellv‚ðŒŸõ‚µ‚ÄŠJ‚«‚Ü‚·B
-2. ƒfƒBƒŒƒNƒgƒŠ‚ÌˆÚ“® cdƒRƒ}ƒ“ƒh‚ðŽg‚Á‚ÄAtodo.jsƒtƒ@ƒCƒ‹‚ª‚ ‚éTodoƒfƒBƒŒƒNƒgƒŠ‚ÉˆÚ“®‚µ‚Ü‚·B
+1. ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã‚’é–‹ã Windowsã®ã‚¹ã‚¿ãƒ¼ãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‹ã‚‰ã€Œcmdã€ã¾ãŸã¯ã€ŒPowerShellã€ã‚’æ¤œç´¢ã—ã¦é–‹ãã¾ã™ã€‚
+2. ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã®ç§»å‹• cdã‚³ãƒžãƒ³ãƒ‰ã‚’ä½¿ã£ã¦ã€todo.jsãƒ•ã‚¡ã‚¤ãƒ«ãŒã‚ã‚‹Todoãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ç§»å‹•ã—ã¾ã™ã€‚
 Bash
-cd C:\Users\shota\Todo
-3. ƒAƒvƒŠ‚Ì‹N“® ˆÈ‰º‚ÌƒRƒ}ƒ“ƒh‚ð“ü—Í‚µAEnterƒL[‚ð‰Ÿ‚µ‚Ü‚·B
+cd C:\Users\myname\Todo
+3. ã‚¢ãƒ—ãƒªã®èµ·å‹• ä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å…¥åŠ›ã—ã€Enterã‚­ãƒ¼ã‚’æŠ¼ã—ã¾ã™ã€‚
 Bash
 node todo.js
 Java
-1. ƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚ðŠJ‚­ Windows‚ÌƒXƒ^[ƒgƒƒjƒ…[‚©‚çucmdv‚Ü‚½‚ÍuPowerShellv‚ðŒŸõ‚µ‚ÄŠJ‚«‚Ü‚·B
-2. ƒfƒBƒŒƒNƒgƒŠ‚ÌˆÚ“® cdƒRƒ}ƒ“ƒh‚ðŽg‚Á‚ÄAToDoListApp.classƒtƒ@ƒCƒ‹‚ª‚ ‚éTodoƒfƒBƒŒƒNƒgƒŠ‚ÉˆÚ“®‚µ‚Ü‚·B
+1. ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã‚’é–‹ã Windowsã®ã‚¹ã‚¿ãƒ¼ãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‹ã‚‰ã€Œcmdã€ã¾ãŸã¯ã€ŒPowerShellã€ã‚’æ¤œç´¢ã—ã¦é–‹ãã¾ã™ã€‚
+2. ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã®ç§»å‹• cdã‚³ãƒžãƒ³ãƒ‰ã‚’ä½¿ã£ã¦ã€ToDoListApp.classãƒ•ã‚¡ã‚¤ãƒ«ãŒã‚ã‚‹Todoãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ç§»å‹•ã—ã¾ã™ã€‚
 Bash
-cd C:\Users\shota\Todo
-3. ƒAƒvƒŠ‚Ì‹N“® ˆÈ‰º‚ÌƒRƒ}ƒ“ƒh‚ð“ü—Í‚µAEnterƒL[‚ð‰Ÿ‚µ‚Ü‚·B
+cd C:\Users\myname\Todo
+3. ã‚¢ãƒ—ãƒªã®èµ·å‹• ä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å…¥åŠ›ã—ã€Enterã‚­ãƒ¼ã‚’æŠ¼ã—ã¾ã™ã€‚
 Bash
 java ToDoListApp
+
 
