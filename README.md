@@ -22,76 +22,90 @@
 
 ---
 
-## 🎮 使い方 (How To Use)
+🐍 Python版
+動作環境
+Python 3
 
-### 1️⃣ Python版
+ファイル構成
+C:\Users\myname\
+└── Todo\
+    └── todo.py
 
-**ファイル配置**
+実行方法
+プロジェクトディレクトリに移動します。
 
-C:\Users\myname
-└── Todo
-└── todo.py
-
-r
-コードをコピーする
-
-**実行**
-
-```bash
 cd C:\Users\myname\Todo
-python todo.py
-2️⃣ JavaScript (Node.js)版
-ファイル配置
 
-makefile
-コードをコピーする
+以下のコマンドでアプリケーションを実行します。
+
+python todo.py
+
+これにより、To Doリストのメニューが表示されます。
+
+☕ JavaScript (Node.js)版
+動作環境
+Node.js
+
+ファイル構成
 C:\Users\myname\
 └── Todo\
     └── todo.js
-実行
 
-bash
-コードをコピーする
+実行方法
+プロジェクトディレクトリに移動します。
+
 cd C:\Users\myname\Todo
-node todo.js
-3️⃣ Java版
-ファイル配置
 
-arduino
-コードをコピーする
+以下のコマンドでアプリケーションを実行します。
+
+node todo.js
+
+これにより、To Doリストのメニューが表示されます。
+
+♨️ Java版
+動作環境
+Java Development Kit (JDK)
+
+ファイル構成
 C:\Users\myname\
 └── Todo\
     ├── Task.java
     └── ToDoListApp.java
-コンパイル & 実行
 
-bash
-コードをコピーする
+実行方法
+Java版は、実行前にソースコードをコンパイル（コンピュータが実行できる形式に変換）する必要があります。
+
+1. JDKのセットアップ
+javacコマンドが認識されない場合、JDKが正しくインストールされていないか、環境変数の設定が必要です。
+
+JDKのインストール: Oracle JDK や OpenJDK などからJDKをダウンロードし、インストールします。
+
+環境変数の設定:
+
+Windowsの検索バーで「環境変数」と入力し、「システム環境変数の編集」を開きます。
+
+Path変数に、インストールしたJDKのbinディレクトリのパス（例: C:\Program Files\Java\jdk-21\bin）を追加します。
+
+コマンドプロンプトの再起動: 設定を反映させるため、開いているコマンドプロンプトをすべて閉じてから、再度開きます。
+
+動作確認: 新しいコマンドプロンプトで以下のコマンドを実行し、バージョン情報が表示されれば設定は完了です。
+
+javac -version
+
+2. コンパイル
+プロジェクトディレクトリに移動します。
+
 cd C:\Users\myname\Todo
-javac ToDoListApp.java
+
+以下のコマンドでJavaソースコードをコンパイルします。
+
+javac ToDoListApp.java Task.java
+
+成功すると、ディレクトリ内にToDoListApp.classとTask.classファイルが生成されます。
+
+3. 実行
+コンパイルが完了したら、以下のコマンドでアプリケーションを実行します。
+
 java ToDoListApp
-✨ 特徴 (Features)
-<div align="center">
-✅ タスク追加・一覧表示・完了
 
-💻 軽量でシンプルなコマンドライン操作
-
-🐍 Python / Node.js / Java 対応
-
-🔧 ライブラリ不要で簡単スタート
-
-</div>
-🌸 最後に
-毎日のタスク管理をもっとスマートに！
-シンプルで直感的な操作感で、To Do管理がサクサク進みます ✨
-
-<div align="center"> <img src="https://img.shields.io/badge/Start-Now-brightgreen?style=for-the-badge&logo=markdown" alt="Start Now"> </div> ```
-💡 ポイント：
-
-表で動作環境を整理して見やすく
-
-セクションごとにコードブロックを統一
-
-アイコン＆絵文字で華やかさUP
-
-最後にバッジを置くことでおしゃれ感
+これにより、To Doリストのメニューが表示されます。
